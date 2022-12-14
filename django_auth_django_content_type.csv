@@ -1,0 +1,7 @@
+3,admin,logentry
+5,auth,group
+4,auth,permission
+6,contenttypes,contenttype
+7,sessions,session
+2,users,blog
+1,users,user
